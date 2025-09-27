@@ -1,0 +1,6 @@
+name: practice_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
